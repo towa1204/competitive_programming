@@ -9,6 +9,10 @@ using namespace std;
 #  define debug(...) (static_cast<void>(0))
 #endif
 
+void solve() {
+    
+}
+
 int main() {
     
 }
