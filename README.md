@@ -13,3 +13,5 @@
       command g++ -std=c++17 -I ~/competitive_programming -DLOCAL $1
     } 
     ```
+* ファイル生成
+  * ABCのファイル生成スクリプト [#1](https://github.com/towa1204/competitive_programming/issues/1) 参照
